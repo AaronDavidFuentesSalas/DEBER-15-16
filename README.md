@@ -60,4 +60,24 @@ encontrar las corrientes que pasan por sus ramas.
 
 ![image](https://user-images.githubusercontent.com/105386939/186519020-b0b273d7-2734-47e5-b5b2-10e0c141baed.png)
 
+5. CONLUSIONES
+
+• Debemos repasar y recordar los conceptos escenciales de manera que tengamos bien claros los procedimientos para que podamos entender los siguientes temas que estan relacionados y que son un poco mas complicados, la corriente alterna tiene muchos mas parametros que la corriente directa donde podemos manejar todos los datos haciendo uso de las leyes de Kirchoff.
+
+• Tambien tenemos que recordar como se manejan las operaciones con los numeros complejos ya que en este tipo de circuitos la represtnacion de voltaje y corriente se encuentran realizando estas operaciones.
+
+6.RUBRICA
+
+![image](https://user-images.githubusercontent.com/105386939/186519778-bededb49-1bef-4710-bf7b-ec277840776e.png)
+
+7.BIBLIOGRAFIAS
+
+LOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición.
+
+García ,A.(2013) Ley de los voltajes de Kirchhoff: Método de Mallas.
+
+Charles Alexander, Matthew Sadiku. Fundamento de circuitos eléctricos.
+
+Milton Gussonw, Mexico McGraw-Hill.(1985). FUNDAMENTOS DE ELECTRICIDAD
+
 
